@@ -131,7 +131,7 @@ input, select, textarea {
 		}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #444;
+		color: #457B9D;
 		font-weight: 800;
 	}
 
@@ -154,7 +154,7 @@ input, select, textarea {
 
 	b, strong {
 		font-weight: 600;
-		color: #444;
+		color: #457B9D;
 	}
 
 	i, em {
@@ -1491,7 +1491,7 @@ input, select, textarea {
 		font-weight: 800;
 		margin: 0 0 1em 0;
 		font-size: 0.8em;
-		color: #444;
+		color: #457B9D;
 	}
 
 	form input[type="text"],
@@ -1679,7 +1679,7 @@ input, select, textarea {
 		.button.alt {
 			background: #f1f1f1;
 			background: rgba(0, 0, 0, 0.05);
-			color: #444;
+			color: #457B9D;
 		}
 
 			input[type="button"].alt:hover,
@@ -1898,7 +1898,7 @@ input, select, textarea {
 				}
 
 				.widget.contact ul li a:hover {
-					background: #444444;
+					background: #457B9D;
 				}
 
 				.widget.contact ul li a:active {
@@ -2005,7 +2005,7 @@ input, select, textarea {
 				}
 
 				#nav ul li.current a {
-					background: #444;
+					background: #457B9D;
 					color: #fff;
 				}
 
@@ -2452,7 +2452,7 @@ input, select, textarea {
 				}
 
 				#navPanel .depth-0 {
-					color: #444;
+					color: #457B9D;
 					font-weight: 800;
 				}
 
